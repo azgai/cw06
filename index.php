@@ -42,7 +42,7 @@
         ?>
 
     </table>
-
+    <a href="employee_demo.php">Go to Employee Demo</a>
 </body>
 
 </html>
